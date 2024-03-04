@@ -1,1 +1,9 @@
+# Delete the file locally
+git rm excel
+
+# Commit the deletion
+git commit -m "Delete excel file"
+
+# Push the changes to GitHub
+git push origin main
 
