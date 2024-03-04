@@ -1,9 +1,10 @@
 # Delete the file locally
 git rm excel
 
-# Commit the deletion
-git commit -m "Delete excel file"
+# Commit the deletion with a meaningful message
+git commit -m "Remove Excel file from main branch. It is no longer needed."
 
 # Push the changes to GitHub
 git push origin main
+
 
