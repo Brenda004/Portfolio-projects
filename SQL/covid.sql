@@ -1,3 +1,5 @@
+-- This project uses two datasets: Covid Vaccination and Covid death tables. We use this data sets to answer the given questions.
+
 SELECT * FROM dbo.covidDeaths ORDER BY 3,4;
 
 ---know about the table
