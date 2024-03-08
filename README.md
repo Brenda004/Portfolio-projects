@@ -1,6 +1,6 @@
 # Portfolio-projects
 
-Greetings, and welcome to my portfolio showcasing my expertise as a Data Analyst!
+Greetings, and welcome to my portfolio showcasing my expertise as an Entry level Data Analyst!
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to aid in decison- making. I am proficient in Python,SQL, Excel,and Power BI, and have a solid understanding of data analytics techniques such as dashboard building, report writing, statistics, and critical thinking.
 
