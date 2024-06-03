@@ -1,1 +1,42 @@
+# Data Science Job Salaries Analysis Dashboard
+
+**Author:** Brenda Wanjiku 
+**Date:** 3/6/2024
+
+## Introduction
+- **Purpose:** Analyze data science job salaries using an interactive Excel dashboard.
+- Provides insights into average salaries by job titles, geographic locations, experience levels, and employment types.
+
+## Data Source
+- **Dataset:** "Data Science Salaries 2024"
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/abhinavshaw09/data-science-job-salaries-2024)
+
+## Dashboard Components
+- **Slicers:**
+  - Year
+  - Experience Level
+  - Employment Type
+- **Charts:**
+  - Average Salary by Job Title
+  - Geographical Distribution of Average Salaries
+  - Average Salary by Experience Level
+  - Trends in Data Science Salaries Over Time
+  - Average Salary by Employment Type
+  - Top 10 Companies by Average Salary
+
+## Key Findings
+- **Job Title:** AI Developer and AI architect have the highest average salaries.
+- **Geographic Distribution:** North America region offers the highest salaries.
+- **Experience Level:** Salaries increase with experience.
+- **Employment Type:** Conract positions offer higher salaries.
+- **Trends Over Time:** Salaries have increased over the past five years but declined in 2022 and 2023.
+- ** Firm size: ** Large firms offer  higher salaries than the others.
+
+## Instructions for Use
+- Use slicers to filter data.
+
+## Conclusion
+- Provides valuable insights for job seekers, employers, and researchers.
+- Helps understand salary trends and factors influencing compensation in data science.
+
 
